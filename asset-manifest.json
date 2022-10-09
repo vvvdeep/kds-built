@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kds-built/static/css/main.dfc8a9f6.css",
+    "main.js": "/kds-built/static/js/main.dc36a149.js",
+    "static/js/787.28cb0dcd.chunk.js": "/kds-built/static/js/787.28cb0dcd.chunk.js",
+    "static/media/about-us.jpg": "/kds-built/static/media/about-us.2921e9686b1461c861e7.jpg",
+    "static/media/service-sil.jpg": "/kds-built/static/media/service-sil.f30ce159516bba7ea4ce.jpg",
+    "static/media/home.jpg": "/kds-built/static/media/home.10f87c3ee3c81626fe96.jpg",
+    "static/media/service-comm-part.jpg": "/kds-built/static/media/service-comm-part.a949fc43aedd71a2094a.jpg",
+    "static/media/services.jpg": "/kds-built/static/media/services.f8fd7c4d89bf44d653d8.jpg",
+    "static/media/service-day-options.jpg": "/kds-built/static/media/service-day-options.7ab9b683019a03b9d71f.jpg",
+    "static/media/service-in-home-care.jpg": "/kds-built/static/media/service-in-home-care.ab858da612e4c6464418.jpg",
+    "static/media/logo_kds.png": "/kds-built/static/media/logo_kds.5b3b9778962cf9059535.png",
+    "index.html": "/kds-built/index.html",
+    "main.dfc8a9f6.css.map": "/kds-built/static/css/main.dfc8a9f6.css.map",
+    "main.dc36a149.js.map": "/kds-built/static/js/main.dc36a149.js.map",
+    "787.28cb0dcd.chunk.js.map": "/kds-built/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfc8a9f6.css",
+    "static/js/main.dc36a149.js"
+  ]
+}
